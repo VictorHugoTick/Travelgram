@@ -1,0 +1,19 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+
+  padding-block: 24px;
+
+  /* background-color: var(--skeleton-color); */
+
+  align-items: center;
+}
+
+footer a {
+  padding: 4px;
+}
+
+footer > div {
+  display: flex;
+  gap: 16px;
+}
