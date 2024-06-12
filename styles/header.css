@@ -14,7 +14,11 @@ header .container {
 }
 
 #profile img {
+  width: 176px;
+  height: 176px;
   border-radius: 176px;
+
+  object-fit: cover;
 }
 
 #profile > div {
